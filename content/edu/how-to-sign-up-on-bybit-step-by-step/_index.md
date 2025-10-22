@@ -25,7 +25,7 @@ outputs = ["HTML"]
 가입부터 본인인증(KYC)까지 하나씩 천천히 안내드립니다.
 
 ---
-![바이비트 로고](/images/join/logo.jpg)
+![바이비트 로고](/images/join/logo.png)
 ## 📘 Bybit란 무엇인가요?
 
 Bybit은 2018년에 설립된 글로벌 암호화폐 거래소로,  
