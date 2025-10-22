@@ -7,7 +7,7 @@ draft = false
 keywords = ["Bybit", "바이비트", "Bybit 가입", "바이비트 가입방법", "Bybit KYC", "바이비트 인증", "해외거래소 가이드", "암호화폐 거래소 초보자", "코인 거래 시작하기", "KYC 절차"]
 
 robots = "index, follow"
-canonicalURL = "https://joinhelpers.com/edu/how-to-sign-up-on-bybit-step-by-step/"
+canonicalURL = "https://www.joinhelpers.com/edu/how-to-sign-up-on-bybit-step-by-step/"
 
 [build]
   render = "always"
@@ -25,7 +25,7 @@ outputs = ["HTML"]
 가입부터 본인인증(KYC)까지 하나씩 천천히 안내드립니다.
 
 ---
-![바이비트 로고](images/join/logo.jpg)
+![바이비트 로고](/images/join/logo.jpg)
 ## 📘 Bybit란 무엇인가요?
 
 Bybit은 2018년에 설립된 글로벌 암호화폐 거래소로,  
@@ -64,16 +64,16 @@ Bybit은 **모바일 앱**과 **PC 웹사이트** 모두 지원합니다.
 ---
 
 ### 2️⃣ 이메일 또는 휴대전화로 회원가입
-![바이비트 가입](images/join/3.jpg)
+![바이비트 가입](/images/join/3.jpg)
 
 - 이메일 또는 전화번호 입력  
 - 비밀번호 설정 후 약관 동의  
 - 인증번호(Verification Code) 입력  
 - “Create Account” 클릭 시 계정 생성 완료  
 
-![바이비트 가입](images/join/4.jpg)
-![바이비트 가입](images/join/5.jpg)
-![바이비트 가입](images/join/6.jpg)
+![바이비트 가입](/images/join/4.jpg)
+![바이비트 가입](/images/join/5.jpg)
+![바이비트 가입](/images/join/6.jpg)
 
 > 💡 가입 시 입력한 이메일 또는 휴대전화로 인증번호가 전송됩니다.  
 > 올바르게 입력하지 않으면 인증이 실패할 수 있습니다.
@@ -81,14 +81,14 @@ Bybit은 **모바일 앱**과 **PC 웹사이트** 모두 지원합니다.
 ---
 
 ### 3️⃣ 로그인 후 본인인증(KYC) 진행
-![KYC 인증 화면 예시](images/join/7.jpg)
+![KYC 인증 화면 예시](/images/join/7.jpg)
 
 로그인 후 상단 메뉴에서 **“Verify Now”** 버튼을 클릭합니다.  
 이 단계에서 신분증 인증을 완료해야 모든 기능을 사용할 수 있습니다.
 
-![KYC 인증 화면 예시](images/join/8.jpg)
-![KYC 인증 화면 예시](images/join/10.jpg)
-![KYC 인증 화면 예시](images/join/11.jpg)
+![KYC 인증 화면 예시](/images/join/8.jpg)
+![KYC 인증 화면 예시](/images/join/10.jpg)
+![KYC 인증 화면 예시](/images/join/11.jpg)
 
 - **국가:** Korea 선택  
 - **신분증:** 주민등록증, 운전면허증, 또는 여권 중 택 1  
@@ -122,9 +122,9 @@ Bybit뿐 아니라 모든 글로벌 거래소가 요구하는 과정이므로 �
    - 인증 후 “Verified ID” 문구가 표시되면 성공  
    - 승인 후 입출금 및 거래 기능이 활성화됩니다.  
 
-![KYC 제출 예시](images/join/12.jpg)
-![KYC 인증 화면 예시](images/join/13.jpg)
-![KYC 인증 화면 예시](images/join/14.jpg)
+![KYC 제출 예시](/images/join/12.jpg)
+![KYC 인증 화면 예시](/images/join/13.jpg)
+![KYC 인증 화면 예시](/images/join/14.jpg)
 
 > ✅ 대부분의 사용자는 5분 이내에 인증이 완료되며,  
 > 인증 후 리워드 및 이벤트 참여가 가능합니다.
