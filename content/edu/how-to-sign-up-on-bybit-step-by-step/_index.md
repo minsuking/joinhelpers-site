@@ -1,4 +1,4 @@
----
++++
 title = "Bybit(바이비트) 거래소 가입 절차 및 KYC 인증 가이드 (2025년 최신)"
 description = "Bybit(바이비트) 거래소 초보자 가이드 — 가입 방법부터 KYC 본인인증까지 단계별로 쉽게 따라할 수 있는 완전 가이드입니다."
 slug = "how-to-sign-up-on-bybit-step-by-step"
@@ -6,8 +6,8 @@ type = "page"
 draft = false
 keywords = ["Bybit", "바이비트", "Bybit 가입", "바이비트 가입방법", "Bybit KYC", "바이비트 인증", "해외거래소 가이드", "암호화폐 거래소 초보자", "코인 거래 시작하기", "KYC 절차"]
 
-[robots]
-  index = "index,follow"
+robots = "index, follow"
+canonicalURL = "https://joinhelpers.com/edu/how-to-sign-up-on-bybit-step-by-step/"
 
 [_build]
   render = "always"
@@ -15,10 +15,7 @@ keywords = ["Bybit", "바이비트", "Bybit 가입", "바이비트 가입방법"
   publishResources = true
 
 outputs = ["HTML"]
-
-[seo]
-  canonical = "https://joinhelpers.com/edu/how-to-sign-up-on-bybit-step-by-step/"
----
++++
 
 # 🧭 Bybit(바이비트) 거래소 가입 절차 및 KYC 인증 가이드 (2025년 최신)
 
