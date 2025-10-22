@@ -1,0 +1,29 @@
+﻿baseURL = "https://joinhelpers.com/"
+title = "JoinHelpers | Crypto Education Guides"
+languageCode = "ko-kr"
+defaultContentLanguage = "ko"
+theme = "PaperMod"
+enableRobotsTXT = true
+paginate = 10
+canonifyURLs = true
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[params]
+  env = "production"
+  defaultTheme = "auto"
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = false
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  comments = false
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[permalinks]
+  edu = "/edu/:slug/"
