@@ -4,8 +4,10 @@ languageCode = "ko-kr"
 defaultContentLanguage = "ko"
 theme = "PaperMod"
 enableRobotsTXT = true
-paginate = 10
 canonifyURLs = true
+
+[pagination]
+  pagerSize = 10
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
