@@ -10,7 +10,7 @@ canonifyURLs = true
   pagerSize = 10
 
 [outputs]
-home = ["HTML", "RSS", "JSON"]
+home = ["HTML", "RSS", "JSON", "SITEMAP"]   # ← SITEMAP 추가
 
 [params]
   env = "production"
@@ -33,3 +33,8 @@ home = ["HTML", "RSS", "JSON"]
 [params.advertiser]
   name  = "김민수"
   email = "pepsi4040@naver.com"
+
+[sitemap]
+  changefreq = "daily"     # 검색엔진에 '변경 주기' 힌트 제공
+  priority   = 0.5         # 기본 우선순위
+  filename   = "sitemap.xml"  # 기본값 유지(원하면 변경 가능)
