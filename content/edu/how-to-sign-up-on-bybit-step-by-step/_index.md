@@ -14,7 +14,6 @@ canonicalURL = "https://www.joinhelpers.com/edu/how-to-sign-up-on-bybit-step-by-
   list = "always"
   publishResources = true
 
-outputs = ["HTML"]
 +++
 
 # 🧭 Bybit(바이비트) 거래소 가입 절차 및 KYC 인증 가이드 (2025년 최신)
