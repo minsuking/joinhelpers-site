@@ -97,15 +97,15 @@ OKX는 업비트·빗썸과 트래블룰 연동이 되어 있어,
 인증 절차는 다음과 같습니다 👇
 
 1. 로그인 후 **‘인증하기(Verify Now)’ 클릭**  
-![okx kyc 인증방법](/images/join-okx/okx_KYC-Photoroom1.jpg)
+![okx kyc 인증방법](/images/join-okx/okx_KYC-Photoroom1.png)
 2. 거주 국가로 **‘대한민국(South Korea)’ 선택**  
-![okx kyc 인증방법](/images/join-okx/okx_KYC-Photoroom2.jpg)
+![okx kyc 인증방법](/images/join-okx/okx_KYC-Photoroom2.png)
 3. **신분증 유형 선택** (주민등록증 / 운전면허증 / 여권 중 택1)
-![okx kyc 인증방법](/images/join-okx/okx_KYC-Photoroom3.jpg)  
+![okx kyc 인증방법](/images/join-okx/okx_KYC-Photoroom3.png)  
 4. **신분증 앞·뒷면 촬영 → 업로드**  
-![okx kyc 인증방법](/images/join-okx/okx_KYC-Photoroom4.jpg)
+![okx kyc 인증방법](/images/join-okx/okx_KYC-Photoroom4.png)
 5. **얼굴 셀피 인증 진행**
-![okx kyc 인증방법](/images/join-okx/okx_KYC-Photoroom5.jpg)
+![okx kyc 인증방법](/images/join-okx/okx_KYC-Photoroom5.png)
 
 📌 **심사 소요 시간:**  
 평균 **영업일 기준 5분 이내**  
