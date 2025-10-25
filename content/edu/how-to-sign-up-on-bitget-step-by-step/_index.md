@@ -1,8 +1,8 @@
 +++
 title = "Bitget 거래소 가입 및 KYC 인증 가이드 (2025년 최신)"
-description = "이 문서는 **Bitget**을 처음 사용하는 이용자에게  
+description = """이 문서는 **Bitget**을 처음 사용하는 이용자에게  
 **모바일(크롬/사파리)에서 웹으로 가입하는 방법과 KYC(본인인증) 절차**를 단계별로 설명하는 **교육용 안내서**입니다.  
-거래나 투자를 권유하지 않으며, 절차 이해를 돕기 위한 참고 자료입니다."
+거래나 투자를 권유하지 않으며, 절차 이해를 돕기 위한 참고 자료입니다."""
 slug = "how-to-sign-up-on-bitget-step-by-step"
 type = "page"
 draft = false
@@ -12,10 +12,11 @@ canonicalURL = "https://www.joinhelpers.com/edu/how-to-sign-up-on-bitget-step-by
 outputs = ["HTML"]
 
 [build]
-  render = "always"
-  list = "always"
-  publishResources = true
+render = "always"
+list = "always"
+publishResources = true
 +++
+
 
 <a href="https://partner.bitget.com/bg/UD0PT2"
    target="_blank"
