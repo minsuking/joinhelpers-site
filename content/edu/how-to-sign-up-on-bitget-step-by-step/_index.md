@@ -35,7 +35,7 @@ publishResources = true
      class="bgt-btn"
      target="_blank"
      rel="noopener nofollow sponsored">
-    Bitget 공식 홈페이지 열기 (모바일 웹)
+    Bitget 공식 홈페이지 열기
   </a>
 </div>
 
