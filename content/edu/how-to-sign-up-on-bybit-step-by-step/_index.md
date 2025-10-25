@@ -23,7 +23,7 @@ canonicalURL = "https://www.joinhelpers.com/edu/how-to-sign-up-on-bybit-step-by-
 <a href="https://partner.bybit.com/b/145307"
    target="_blank"
    rel="noopener nofollow sponsored">
-  <img src="/images/join/logo.png" alt="바이비트 가입 가이드" style="max-width:100%; border-radius:12px;">
+  <img src="/images/join/logo1.png" alt="바이비트 가입 가이드" style="max-width:100%; border-radius:12px;">
 </a>
 
 ## 📘 Bybit란 무엇인가요?
