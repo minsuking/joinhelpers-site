@@ -16,7 +16,7 @@ home = ["HTML", "RSS", "JSON", "SITEMAP"]   # ← SITEMAP 추가
   env = "production"
   defaultTheme = "auto"
   ShowBreadCrumbs = true
-  ShowPostNavLinks = false
+  ShowPostNavLinks = true
   ShowReadingTime = true
   ShowShareButtons = false
   ShowCodeCopyButtons = true
@@ -41,25 +41,3 @@ home = ["HTML", "RSS", "JSON", "SITEMAP"]   # ← SITEMAP 추가
   changefreq = "daily"     # 검색엔진에 '변경 주기' 힌트 제공
   priority   = 0.5         # 기본 우선순위
   filename   = "sitemap.xml"  # 기본값 유지(원하면 변경 가능)
-
-[menu]
-
-  [[menu.main]]
-    name = "Bybit 가입 가이드"
-    url  = "/edu/how-to-sign-up-on-bybit-step-by-step/"
-    weight = 1
-
-  [[menu.main]]
-    name = "Bitget 가입 가이드"
-    url  = "/edu/how-to-sign-up-on-bitget-step-by-step/"
-    weight = 2
-
-  [[menu.main]]
-    name = "OKX 가입 가이드"
-    url  = "/edu/how-to-sign-up-on-okx-step-by-step/"
-    weight = 3
-
-  [[menu.main]]
-    name = "Bitget KYC 가이드"
-    url  = "/edu/how-to-complete-kyc-on-bitget-mobile/"
-    weight = 4
