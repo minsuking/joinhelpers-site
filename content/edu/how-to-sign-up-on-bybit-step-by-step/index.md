@@ -7,6 +7,8 @@ description = """**Bybit(바이비트)**는 전 세계적으로 많이 사용되
 slug = "how-to-sign-up-on-bybit-step-by-step"
 type = "edu"
 draft = false
+exchange = "bybit"   # bybit | bitget | okx
+category = "register" # register | manual | kyc
 summary = "Bybit(바이비트) 거래소 초보자용 완전 가이드 — 회원가입부터 KYC 본인인증, 2단계 보안설정까지 단계별로 따라할 수 있는 교육용 안내입니다."
 keywords = ["Bybit", "바이비트", "Bybit 가입", "바이비트 가입방법", "Bybit KYC", "바이비트 인증", "해외거래소 가이드", "암호화폐 거래소 초보자", "코인 거래 시작하기", "KYC 절차"]
 

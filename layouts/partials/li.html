@@ -1,0 +1,30 @@
+{{- $isHidden := .Params.cover.hidden | default false -}}
+{{- $isCover  := and .Params.cover (not $isHidden) -}}
+<article class="post-entry"
+  {{- with .Params.exchange }} data-exchange="{{ . | lower }}"{{ end -}}>
+  {{- if and $isCover .Params.cover.image -}}
+    <a class="entry-cover" href="{{ .Permalink }}">
+      <img src="{{ .Params.cover.image | relURL }}" alt="{{ .Params.cover.alt }}">
+    </a>
+  {{- end -}}
+
+  <header class="entry-header">
+    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+  </header>
+
+  <div class="entry-content">
+    <p>{{ .Summary }}</p>
+  </div>
+
+  {{/* 뱃지: exchange, category 있으면 뱃지로 출력 */}}
+  <div class="badges">
+    {{ with .Params.exchange }}
+      <span class="badge badge--{{ . | lower }}">{{ . | title }}</span>
+    {{ end }}
+    {{ with .Params.category }}
+      <span class="badge">{{ . | title }}</span>
+    {{ end }}
+  </div>
+
+  <a class="entry-link" aria-label="post link to {{ .Title }}" href="{{ .Permalink }}"></a>
+</article>
