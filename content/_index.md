@@ -1,6 +1,7 @@
 +++
 title = "JoinHelpers — 글로벌 크립토 교육 허브"
 description = "JoinHelpers는 해외 암호화폐 거래소 및 블록체인 서비스에 대한 교육 중심의 가이드 허브입니다. 초보자부터 실전 트레이더까지 모두를 위한 올인원 학습 플랫폼을 목표로 합니다."
+layout = "list"      # ← 핵심
 +++
 
 # 👋 JoinHelpers에 오신 것을 환영합니다
