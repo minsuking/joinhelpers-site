@@ -6,7 +6,7 @@ type = "pages"
 draft = false
 keywords = ["BingX", "BingX 가입", "빙엑스", "빙엑스 거래소", "BingX KYC", "빙엑스 인증", "BingX 수수료", "빙엑스 가입방법", "해외거래소 가입 절차", "암호화폐 거래소 가이드", "코인 입출금 방법"]
 robots = "index, follow"
-canonicalURL = "https://bingx.joinhelpers.com/edu/how-to-sign-up-on-bingx-step-by-step/
+canonicalURL = "https://www.joinhelpers.com/edu/how-to-sign-up-on-bingx-step-by-step/
 "
 outputs = ["HTML"]
 
