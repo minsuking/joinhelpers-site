@@ -1,20 +1,29 @@
 +++
-title = "BingX 거래소 가입 및 KYC 인증 가이드 (2025년 최신)"
-description = "BingX 거래소 신규 가입자를 위한 단계별 안내서 — 이메일 등록부터 본인인증(KYC), 2단계 보안 설정까지 초보자도 쉽게 따라 할 수 있도록 정리했습니다."
+title = "BingX(빙엑스) 거래소 가입 및 KYC 인증 가이드 (2025년 최신)"
+description = "BingX 거래소 신규 이용자를 위한 교육용 가이드 — 모바일 가입 절차, 본인인증(KYC), 보안 설정(2FA/OTP)까지 단계별로 정리했습니다."
 slug = "how-to-sign-up-on-bingx-step-by-step"
-type = "pages"
+type = "page"
 draft = false
-keywords = ["BingX", "BingX 가입", "빙엑스", "빙엑스 거래소", "BingX KYC", "빙엑스 인증", "BingX 수수료", "빙엑스 가입방법", "해외거래소 가입 절차", "암호화폐 거래소 가이드", "코인 입출금 방법"]
+keywords = [
+  "BingX",
+  "빙엑스",
+  "빙엑스 가입",
+  "BingX 가입",
+  "빙엑스 KYC",
+  "빙엑스 OTP",
+  "암호화폐 거래소 가이드",
+  "해외거래소 가입 절차"
+]
 robots = "index, follow"
-canonicalURL = "https://www.joinhelpers.com/edu/how-to-sign-up-on-bingx-step-by-step/
-"
+canonicalURL = "https://www.joinhelpers.com/edu/how-to-sign-up-on-bingx-step-by-step/"
 outputs = ["HTML"]
 
 [build]
-render = "always"
-list = "always"
-publishResources = true
+  render = "always"
+  list = "always"
+  publishResources = true
 +++
+
 
 ## 💡 BingX 공식 가입 페이지로 이동하기
 
