@@ -4,8 +4,11 @@ description = """이 문서는 **Bitget**을 처음 사용하는 이용자에게
 **모바일(크롬/사파리)에서 웹으로 가입하는 방법과 KYC(본인인증) 절차**를 단계별로 설명하는 **교육용 안내서**입니다.  
 거래나 투자를 권유하지 않으며, 절차 이해를 돕기 위한 참고 자료입니다."""
 slug = "how-to-sign-up-on-bitget-step-by-step"
-type = "page"
+type = "edu"
 draft = false
+exchange = "bitget"   # bybit | bitget | okx
+category = "register" # register | manual | kyc
+summary = "Bitget(비트겟) 거래소 신규 가입자를 위한 단계별 안내 — 이메일 가입, 본인인증(KYC), 입출금 및 거래 설정까지 한눈에 정리했습니다."
 keywords = ["Bitget", "비트겟", "Bitget 가입", "Bitget KYC", "비트겟 인증", "해외거래소 가입방법", "모바일 웹 가입", "크롬 가입", "암호화폐 거래소 가이드"]
 robots = "index, follow"
 canonicalURL = "https://www.joinhelpers.com/edu/how-to-sign-up-on-bitget-step-by-step/"
