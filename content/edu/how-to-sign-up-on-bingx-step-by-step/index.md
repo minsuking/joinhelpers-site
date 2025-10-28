@@ -150,7 +150,6 @@ Google OTP 인증으로 계정을 안전하게 보호할 수 있습니다.
   justify-content: center;
   margin: 28px 0 14px;
 }
-
 .bingx-btn {
   display: inline-block;
   background: #0B64FE;            /* BingX blue */
@@ -163,18 +162,15 @@ Google OTP 인증으로 계정을 안전하게 보호할 수 있습니다.
   box-shadow: 0 6px 16px rgba(0, 0, 0, .12);
   transition: transform .08s ease, box-shadow .2s ease, opacity .2s ease;
 }
-
 .bingx-btn:hover {
   transform: translateY(-1px);
   box-shadow: 0 10px 24px rgba(0, 0, 0, .18);
   opacity: .98;
 }
-
 .bingx-btn:active {
   transform: translateY(0);
   box-shadow: 0 4px 12px rgba(0, 0, 0, .12);
 }
-
 /* 모바일 대응 */
 @media (max-width:520px) {
   .bingx-btn {
@@ -182,7 +178,6 @@ Google OTP 인증으로 계정을 안전하게 보호할 수 있습니다.
     text-align: center;
   }
 }
-
 /* 다크 모드 색상 보정 */
 @media (prefers-color-scheme: dark) {
   .bingx-btn {
