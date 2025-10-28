@@ -2,7 +2,7 @@
 title = "BingX(빙엑스) 거래소 가입 및 KYC 인증 가이드 (2025년 최신)"
 description = "BingX 거래소 신규 이용자를 위한 교육용 가이드 — 모바일 가입 절차, 본인인증(KYC), 보안 설정(2FA/OTP)까지 단계별로 정리했습니다."
 slug = "how-to-sign-up-on-bingx-step-by-step"
-type = "page"
+type = "edu"
 draft = false
 keywords = [
   "BingX",
