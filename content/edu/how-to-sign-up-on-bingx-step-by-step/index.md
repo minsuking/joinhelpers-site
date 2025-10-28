@@ -14,6 +14,9 @@ keywords = [
   "암호화폐 거래소 가이드",
   "해외거래소 가입 절차"
 ]
+exchange = "bingx"   # bybit | bitget | okx
+category = "register" # register | manual | kyc
+summary = "BingX(빙엑스) 거래소 신규 가입자를 위한 단계별 안내 2025 — 이메일 가입부터 본인인증(KYC) 한눈에 정리했습니다."
 robots = "index, follow"
 canonicalURL = "https://www.joinhelpers.com/edu/how-to-sign-up-on-bingx-step-by-step/"
 outputs = ["HTML"]
