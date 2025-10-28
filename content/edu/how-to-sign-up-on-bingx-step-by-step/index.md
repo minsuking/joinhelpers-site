@@ -26,8 +26,14 @@ outputs = ["HTML"]
 
 
 ## 💡 BingX 공식 가입 페이지로 이동하기
-
-👉 [**BingX 공식 홈페이지 바로가기**](https://bingx.com/invite/QJDP6W/){ .btn .btn-blue }
+<div class="bingx-cta-wrap">
+  <a href="https://bingx.com/invite/QJDP6W/"
+     class="bingx-btn"
+     target="_blank"
+     rel="noopener nofollow sponsored">
+    👉 BingX 공식 홈페이지 열기
+  </a>
+</div>
 
 공식 BingX 웹사이트 또는 모바일 앱을 통해  
 회원가입을 시작할 수 있습니다.
@@ -128,20 +134,59 @@ Google OTP 인증으로 계정을 안전하게 보호할 수 있습니다.
 | 7 | 완료 확인 | 2FA 활성화 |
 
 ---
-👉 [**BingX 공식 홈페이지 바로가기**](https://bingx.com/invite/QJDP6W/){ .btn .btn-blue }
+<div class="bingx-cta-wrap">
+  <a href="https://bingx.com/invite/QJDP6W/"
+     class="bingx-btn"
+     target="_blank"
+     rel="noopener nofollow sponsored">
+    👉 BingX 공식 홈페이지 바로가기
+  </a>
+</div>
 ---
 <style>
-.btn-blue {
-  display: inline-block;
-  background-color: #0B64FE;
-  color: white !important;
-  font-weight: 600;
-  padding: 12px 20px;
-  border-radius: 12px;
-  text-decoration: none;
-  transition: background 0.3s;
+/* BingX 스타일 CTA 버튼 (브랜드 파랑 #0B64FE) */
+.bingx-cta-wrap {
+  display: flex;
+  justify-content: center;
+  margin: 28px 0 14px;
 }
-.btn-blue:hover {
-  background-color: #084ecc;
+
+.bingx-btn {
+  display: inline-block;
+  background: #0B64FE;            /* BingX blue */
+  color: #fff;
+  font-weight: 700;
+  letter-spacing: .2px;
+  padding: 14px 24px;
+  border-radius: 14px;
+  text-decoration: none;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, .12);
+  transition: transform .08s ease, box-shadow .2s ease, opacity .2s ease;
+}
+
+.bingx-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, .18);
+  opacity: .98;
+}
+
+.bingx-btn:active {
+  transform: translateY(0);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, .12);
+}
+
+/* 모바일 대응 */
+@media (max-width:520px) {
+  .bingx-btn {
+    width: 100%;
+    text-align: center;
+  }
+}
+
+/* 다크 모드 색상 보정 */
+@media (prefers-color-scheme: dark) {
+  .bingx-btn {
+    background: #084ECC; /* 어두운 배경 대비용 짙은 블루 */
+  }
 }
 </style>
