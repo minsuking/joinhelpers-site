@@ -23,7 +23,7 @@ canonicalURL = "https://www.joinhelpers.com/edu/how-to-sign-up-on-bybit-step-by-
 +++
 
 ---
-<a href="https://partner.bybit.com/b/145307"
+<a href="/go/bybit-next/"
    target="_blank"
    rel="noopener nofollow sponsored">
   <img src="/images/join/logo1.png" alt="바이비트 가입 가이드" style="max-width:100%; border-radius:12px;">
@@ -56,7 +56,7 @@ Bybit은 **모바일 앱**과 **PC 웹사이트** 모두 지원합니다.
 - 아래 버튼을 눌러 Bybit 공식 페이지로 이동하세요.  
 
 <div align="center" style="margin: 18px 0;">
-  <a href="https://partner.bybit.com/b/145307" target="_blank" rel="noopener noreferrer"
+  <a href="/go/bybit-next/" target="_blank" rel="noopener noreferrer"
      style="display:inline-block;padding:14px 28px;border-radius:14px;
      background:#ff7f00;color:#fff;font-weight:600;font-size:17px;
      text-decoration:none;">

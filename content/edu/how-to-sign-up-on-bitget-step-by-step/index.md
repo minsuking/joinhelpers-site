@@ -21,7 +21,7 @@ publishResources = true
 +++
 
 
-<a href="https://partner.bitget.com/bg/UD0PT2"
+<a href="/go/bitget-next/"
    target="_blank"
    rel="noopener nofollow sponsored">
   <img src="/images/join-bitget/logo.png" alt="Bitget 가입 절차 목차 (모바일 웹 기준)" style="max-width:100%; border-radius:12px;">
@@ -34,7 +34,7 @@ publishResources = true
 모바일에서도 앱 없이 **크롬/사파리 브라우저만으로** 가입할 수 있습니다.
 
 <div class="bgt-cta-wrap">
-  <a href="https://partner.bitget.com/bg/UD0PT2"
+  <a href="/go/bitget-next/"
      class="bgt-btn"
      target="_blank"
      rel="noopener nofollow sponsored">
@@ -95,7 +95,7 @@ publishResources = true
 서비스 이용에 따른 책임은 사용자 본인에게 있으며, 문제 발생 시 **Bitget 공식 고객센터/도움말 센터**를 참고하세요.
 
 <div class="bgt-cta-wrap">
-  <a href="https://partner.bitget.com/bg/UD0PT2"
+  <a href="/go/bitget-next/"
      class="bgt-btn"
      target="_blank"
      rel="noopener nofollow sponsored">

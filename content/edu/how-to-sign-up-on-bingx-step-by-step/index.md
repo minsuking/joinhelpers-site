@@ -30,7 +30,7 @@ outputs = ["HTML"]
 
 ## 💡 BingX 공식 가입 페이지로 이동하기
 <div class="bingx-cta-wrap">
-  <a href="https://bingx.com/invite/QJDP6W/"
+  <a href="/go/bingx-next/"
      class="bingx-btn"
      target="_blank"
      rel="noopener nofollow sponsored">
@@ -138,7 +138,7 @@ Google OTP 인증으로 계정을 안전하게 보호할 수 있습니다.
 
 ---
 <div class="bingx-cta-wrap">
-  <a href="https://bingx.com/invite/QJDP6W/"
+  <a href="/go/bingx-next/"
      class="bingx-btn"
      target="_blank"
      rel="noopener nofollow sponsored">

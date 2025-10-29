@@ -39,7 +39,7 @@ OKX는 **글로벌 암호화폐 거래 플랫폼** 중 하나로,
 
 ---
 
-<a href="https://www.okx.com/join/94891319"
+<a href="/go/okx-next/"
    target="_blank"
    rel="noopener nofollow sponsored">
   <img src="/images/join-okx/index.png" alt="OKX 가입 절차 개요 이미지" style="max-width:100%; border-radius:12px;">
@@ -54,7 +54,7 @@ OKX는 **글로벌 암호화폐 거래 플랫폼** 중 하나로,
 
 <div align="center">
 <div class="okx-cta">
-  <a href="https://www.okx.com/join/94891319"
+  <a href="/go/okx-next/"
      class="okx-btn"
      target="_blank"
      rel="noopener nofollow sponsored">
@@ -131,7 +131,7 @@ OKX는 **글로벌 암호화폐 거래 플랫폼** 중 하나로,
 
 <div align="center">
 <div class="okx-cta">
-  <a href="https://www.okx.com/join/94891319"
+  <a href="/go/okx-next/"
      class="okx-btn"
      target="_blank"
      rel="noopener nofollow sponsored">
