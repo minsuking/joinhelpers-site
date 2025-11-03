@@ -15,11 +15,34 @@ JoinHelpers는 이러한 문제를 해결하기 위해, **누구나 쉽게 이�
 
 이곳에서는 다음과 같은 내용을 다룹니다:
 
-- 🔹 글로벌 거래소 가입 및 보안 설정 가이드  
-- 🔹 입출금, 지갑 관리, KYC 인증 절차 설명  
-- 🔹 블록체인과 디파이(DeFi)의 기초 개념  
-- 🔹 리스크를 줄이는 투자 정보 및 보안 습관  
-- 🔹 최신 시장 동향과 트렌드 해설  
+<section id="guides" class="main-section">
+  <h2>🧭 초보자 가이드 목록</h2>
+  <p>해외 거래소 회원가입부터 KYC 인증까지 단계별로 안내합니다. 아래 가이드를 통해 안전하고 쉽게 시작해보세요.</p>
+
+  <div class="guides-list">
+
+    <div class="guide-card">
+      <h3>1️⃣ <a href="/edu/바이비트/">바이비트 가입방법 및 회원가입·KYC 인증 가이드</a></h3>
+      <p>바이비트(Bybit) 거래소 신규 회원가입부터 KYC 인증까지, 초보자도 따라 하기 쉽게 단계별로 안내합니다.</p>
+    </div>
+
+    <div class="guide-card">
+      <h3>2️⃣ <a href="/edu/how-to-sign-up-on-bitget-step-by-step/">OKX 가입방법 및 회원가입·KYC 인증 교육</a></h3>
+      <p>OKX 거래소의 회원가입 절차와 본인 인증(KYC) 방법을 자세히 설명합니다. 실명 인증과 보안 설정까지 한눈에 확인하세요.</p>
+    </div>
+
+    <div class="guide-card">
+      <h3>3️⃣ <a href="/edu/how-to-sign-up-on-bitget-step-by-step/">비트겟 가입방법 및 회원가입·KYC 인증 안내</a></h3>
+      <p>비트겟(Bitget) 거래소의 회원가입 과정과 KYC 인증 방법을 초보자도 쉽게 이해할 수 있도록 정리했습니다.</p>
+    </div>
+
+    <div class="guide-card">
+      <h3>4️⃣ <a href="/edu/how-to-sign-up-on-bingx-step-by-step/">빙엑스 가입방법 및 회원가입·KYC 인증 튜토리얼</a></h3>
+      <p>빙엑스(BingX) 거래소 가입부터 KYC 인증 완료까지 필요한 모든 단계를 순서대로 안내합니다.</p>
+    </div>
+
+  </div>
+</section>
 
 우리는 단순한 정보 사이트가 아니라,  
 **“배우며 성장하는 커뮤니티 중심의 교육 플랫폼”** 으로 발전하고자 합니다.  
@@ -39,3 +62,29 @@ JoinHelpers의 모든 페이지는 “투자 권유”가 아닌 “교육 목�
 ## 🔰 지금부터 시작하세요  
 아래는 JoinHelpers가 제공하는 **해외 거래소 가입 및 본인인증(KYC) 교육 가이드**입니다.  
 처음 블록체인을 접하는 분들도 단계별로 따라 할 수 있도록 구성했습니다.
+
+<style>
+  #guides {
+    margin-top: 3rem;
+    padding: 2rem;
+    background: #fafafa;
+    border-radius: 10px;
+  }
+  #guides h2 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+  }
+  .guides-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  .guide-card h3 a {
+    text-decoration: none;
+    color: #0077cc;
+  }
+  .guide-card p {
+    margin: 0.4rem 0 0 0;
+    color: #444;
+  }
+</style>
