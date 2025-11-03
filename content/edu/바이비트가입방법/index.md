@@ -4,7 +4,7 @@ description = """**바이비트**는 전 세계적으로 많이 사용되는 암
 초보자도 손쉽게 가입하고 거래를 시작할 수 있는 플랫폼입니다.  
 이 페이지에서는 **처음으로 거래소에 가입하는 분들**을 위해  
 가입부터 본인인증(KYC)까지 하나씩 천천히 안내드립니다."""
-slug = "how-to-sign-up-on-bybit-step-by-step"
+slug = "바이비트가입방법"
 type = "edu"
 draft = false
 exchange = "bybit"   # bybit | bitget | okx
