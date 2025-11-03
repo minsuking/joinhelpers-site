@@ -29,7 +29,7 @@ canonicalURL = "https://www.joinhelpers.com/edu/바이비트/"
   <img src="/images/join/logo1.png" alt="바이비트 가입 가이드" style="max-width:100%; border-radius:12px;">
 </a>
 
-## 📘 바이비트란 무엇인가요?
+## 📘 바이비트 소개
 
 바이비트는 2018년에 설립된 글로벌 암호화폐 거래소로,  
 **안전성·속도·사용 편의성**이 강점입니다.  
