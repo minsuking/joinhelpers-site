@@ -46,7 +46,7 @@ robots = "index, follow"
 <a href="/go/bybit-next/"
    target="_blank"
    rel="noopener nofollow sponsored">
-  <img src="/images/join/logo1.png" alt="바이비트 가입 가이드" style="max-width:100%; width:800px; height:auto; border-radius:12px; display:block; margin:auto;">
+  <img src="/images/join/logo1.png" alt="바이비트 가입 가이드" style="max-width:100%; width:600px; height:auto; border-radius:12px; display:block; margin:auto;">
 </a>
 
 ## 📘 바이비트 소개
@@ -73,14 +73,14 @@ robots = "index, follow"
 
 ### 1️⃣ 공식 사이트 접속하기
 - 네이버 웨일, 사파리, 엣지 등에서는 인증 오류가 발생할 수 있습니다.  
-- 아래 버튼을 눌러 Bybit 공식 페이지로 이동하세요.  
+- 아래 버튼을 눌러 수수료 혜택과 함께 Bybit 공식 페이지로 이동하세요.  
 
 <div align="center" style="margin: 18px 0;">
   <a href="/go/bybit-next/" target="_blank" rel="noopener noreferrer"
      style="display:inline-block;padding:14px 28px;border-radius:14px;
      background:#ff7f00;color:#fff;font-weight:600;font-size:17px;
      text-decoration:none;">
-     🌐 공식 Bybit 홈페이지 접속
+     Bybit 20% 평생 수수료 할인 링크로 이동하기
   </a>
 </div>
 
@@ -163,6 +163,15 @@ Bybit뿐 아니라 모든 글로벌 거래소가 요구하는 과정이므로 �
 > 계정을 안전하게 보호하려면 **2단계 인증(2FA)**을 반드시 활성화하세요.  
 > 인증 앱(Google Authenticator, Authy 등)을 사용하면 훨씬 안전합니다.
 
+---
+<div align="center" style="margin: 18px 0;">
+  <a href="/go/bybit-next/" target="_blank" rel="noopener noreferrer"
+     style="display:inline-block;padding:14px 28px;border-radius:14px;
+     background:#ff7f00;color:#fff;font-weight:600;font-size:17px;
+     text-decoration:none;">
+     평생 수수료 20% 할인과 함께 가입하기
+  </a>
+</div>
 ---
 
 ### 📌 요약
