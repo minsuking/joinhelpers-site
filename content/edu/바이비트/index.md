@@ -80,7 +80,7 @@ robots = "index, follow"
      style="display:inline-block;padding:14px 28px;border-radius:14px;
      background:#ff7f00;color:#fff;font-weight:600;font-size:17px;
      text-decoration:none;">
-     Bybit 20% 평생 수수료 할인 링크로 이동하기
+     🚀 11월 이벤트 지금 바로 20% 수수료 할인받기
   </a>
 </div>
 
@@ -169,7 +169,7 @@ Bybit뿐 아니라 모든 글로벌 거래소가 요구하는 과정이므로 �
      style="display:inline-block;padding:14px 28px;border-radius:14px;
      background:#ff7f00;color:#fff;font-weight:600;font-size:17px;
      text-decoration:none;">
-     평생 수수료 20% 할인과 함께 가입하기
+     🚀 지금 바로 20% 수수료 할인받기
   </a>
 </div>
 ---
