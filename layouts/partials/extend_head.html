@@ -1,0 +1,71 @@
+{{/* -------- 0) 기본 값 준비 -------- */}}
+{{ $title := .Title }}
+{{ $summary := .Params.summary | default (.Description | plainify) }}
+{{ $keywords := .Params.keywords | default (slice) }}
+{{ $robots := .Params.robots | default "index, follow" }}
+
+{{/* 호스트 매핑: exchange 값이 있으면 서브도메인, 없으면 루트 도메인 */}}
+{{ $hostmap := dict
+  "bybit"  "https://bybit.joinhelpers.com"
+  "bitget" "https://bitget.joinhelpers.com"
+  "okx"    "https://okx.joinhelpers.com"
+  "bingx"  "https://bingx.joinhelpers.com"
+}}
+{{ $ex := .Params.exchange | default "" }}
+{{ $host := cond (ne $ex "") (index $hostmap $ex) "https://www.joinhelpers.com" }}
+
+{{/* canonical: FM의 canonicalURL 우선, 없으면 host + RelPermalink */}}
+{{ $canon := cond (isset .Params "canonicalURL") .Params.canonicalURL (printf "%s%s" $host .RelPermalink) }}
+
+{{/* desc 3종 우선순위: 전용 필드 > summary */}}
+{{ $seoDesc := .Params.seo_desc | default $summary }}
+{{ $ogDesc  := .Params.og_desc  | default $seoDesc }}
+{{ $twDesc  := .Params.tw_desc  | default $ogDesc }}
+
+{{/* OG 이미지: 페이지 지정 > exchange별 기본 > 사이트 기본 */}}
+{{ $ogDefault := dict
+  "bybit"  (printf "%s/images/og/bybit_og.png"  (index $hostmap "bybit"))
+  "bitget" (printf "%s/images/og/bitget_og.png" (index $hostmap "bitget"))
+  "okx"    (printf "%s/images/og/okx_og.png"    (index $hostmap "okx"))
+  "bingx"  (printf "%s/images/og/bingx_og.png"  (index $hostmap "bingx"))
+}}
+{{ $fallbackOG := "https://www.joinhelpers.com/images/og/default_og.png" }}
+{{ $ogimg := .Params.og_image | default (cond (ne $ex "") (index $ogDefault $ex) $fallbackOG) }}
+
+{{/* -------- 1) Title -------- */}}
+<title>{{ $title }}</title>
+
+{{/* -------- 2) SEO 메타 -------- */}}
+<meta name="description" content="{{ $seoDesc }}">
+{{- if gt (len $keywords) 0 -}}<meta name="keywords" content="{{ delimit $keywords ", " }}">{{- end -}}
+<meta name="robots" content="{{ $robots }}">
+<link rel="canonical" href="{{ $canon }}">
+
+{{/* -------- 3) Open Graph -------- */}}
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="JoinHelpers">
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $ogDesc }}">
+<meta property="og:url" content="{{ $canon }}">
+<meta property="og:image" content="{{ $ogimg }}">
+
+{{/* -------- 4) Twitter Card -------- */}}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ $title }}">
+<meta name="twitter:description" content="{{ $twDesc }}">
+<meta name="twitter:image" content="{{ $ogimg }}">
+
+{{/* -------- 5) JSON-LD -------- */}}
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "WebPage",
+ "headline": {{ $title | jsonify }},
+ "description": {{ $seoDesc | jsonify }},
+ "keywords": {{ $keywords | jsonify }},
+ "publisher": { "@type": "Organization", "name": "JoinHelpers", "url": {{ $host | jsonify }} },
+ "url": {{ $canon | jsonify }},
+ "image": {{ $ogimg | jsonify }},
+ "inLanguage": "ko"
+}
+</script>

@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  {{ partial "extend_head.html" . }}
+  {{- partial "head.html" . -}}  <!-- 테마 기본 헤드가 따로 있다면 같이 유지 -->
+</head>
+<body>
+  {{ block "main" . }}{{ end }}
+</body>
+</html>

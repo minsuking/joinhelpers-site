@@ -1,25 +1,45 @@
 +++
 title = "바이비트 가입방법 및 KYC 인증 가이드 (2025년 최신)"
-description = """**바이비트**는 전 세계적으로 많이 사용되는 암호화폐 거래소 중 하나로,  
-초보자도 손쉽게 가입하고 거래를 시작할 수 있는 플랫폼입니다.  
-이 페이지에서는 **처음으로 거래소에 가입하는 분들**을 위해  
-가입부터 본인인증(KYC)까지 하나씩 천천히 안내드립니다."""
+description = """이 페이지에서는 **바이비트 가입방법**과 **bybit 회원가입 절차**를 처음부터 끝까지 자세히 안내합니다.
+바이비트(Bybit)는 전 세계적으로 많이 사용되는 암호화폐 거래소로, 초보자도 쉽게 회원가입 후 거래를 시작할 수 있습니다.
+본 가이드를 따라 하면 이메일 등록부터 KYC 본인인증까지 모든 과정을 단계별로 확인할 수 있습니다."""
 slug = "바이비트"
 type = "edu"
 draft = false
-exchange = "bybit"   # bybit | bitget | okx
-category = "register" # register | manual | kyc
+exchange = "bybit"
+category = "register"
 summary = "바이비트 거래소 초보자용 완전 가이드 — 회원가입부터 KYC 본인인증, 2단계 보안설정까지 단계별로 따라할 수 있는 교육용 안내입니다."
-keywords = ["Bybit", "바이비트", "Bybit 가입", "바이비트 가입방법", "Bybit KYC", "바이비트 인증", "해외거래소 가이드", "암호화폐 거래소 초보자", "코인 거래 시작하기", "KYC 절차"]
-
+keywords = [
+  "바이비트 가입방법",
+  "바이비트 가입",
+  "Bybit 가입방법",
+  "Bybit 가입",
+  "바이비트 거래소 가입방법",
+  "바이비트 거래소 가입",
+  "바이비트 거래소 회원가입",
+  "Bybit 거래소 가입",
+  "Bybit 신규가입",
+  "바이비트 신규가입",
+  "바이비트 회원가입",
+  "Bybit 회원가입",
+  "바이비트 KYC 인증",
+  "Bybit KYC 인증",
+  "바이비트 거래소 KYC",
+  "Bybit 거래소 KYC",
+  "바이비트 거래소 가입 가이드",
+  "Bybit 가입 가이드"
+]
 robots = "index, follow"
-canonicalURL = "https://www.joinhelpers.com/edu/바이비트/"
+# joinhelpers 본도메인으로 잡지 말고 bybit 서브도메인으로 고정하려면 아래 사용:
+# canonicalURL = "https://bybit.joinhelpers.com/edu/바이비트/"
 
-[build]
-  render = "always"
-  list = "always"
-  publishResources = true
+# 선택: desc 3종 완전 커스텀
+# seo_desc = "바이비트 회원가입과 Bybit 거래소 가입방법을 단계별로 안내합니다."
+# og_desc  = "Bybit(바이비트) 신규가입, 회원가입, KYC 인증까지 한 번에!"
+# tw_desc  = "바이비트 가입 및 KYC 안내 — 초보자용 단계별 가이드"
 
+# 선택: 페이지 고유 OG 이미지
+# og_image = "https://bybit.joinhelpers.com/images/og/bybit_og.png"
 +++
 
 ---
