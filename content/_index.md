@@ -28,7 +28,7 @@ JoinHelpers는 이러한 문제를 해결하기 위해, **누구나 쉽게 이�
 
 3. **비트겟 가입방법 및 회원가입·KYC 인증 안내**  
    비트겟 거래소의 회원가입 과정과 KYC 인증 방법을 초보자도 이해하기 쉽게 정리했습니다.  
-   👉 [비트겟 교육 바로가기](/edu/how-to-complete-kyc-on-bitget-mobile/)
+   👉 [비트겟 교육 바로가기](/edu/how-to-sign-up-on-bitget-step-by-step/)
 
 4. **빙엑스 가입방법 및 회원가입·KYC 인증 튜토리얼**  
    빙엑스(BingX) 거래소 가입부터 KYC 인증 완료까지 필요한 모든 단계를 순서대로 안내합니다.  
