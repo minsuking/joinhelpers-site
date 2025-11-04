@@ -23,7 +23,7 @@ home = ["HTML", "RSS", "JSON", "SITEMAP"]   # ← SITEMAP 추가
   ShowToc = true
   comments = false
   ShowPostCover = true           # 카드 썸네일(cover) 표시
-  mainSections = ["edu"]         # 홈에 보여줄 섹션을 edu로 제한
+  mainSections = []         # 홈에 보여줄 섹션을 edu로 제한
   disableSpecial1stPost = true   # 맨 첫 글 특수 레이아웃 비활성(카드 흐름 통일)
   
 [markup]
