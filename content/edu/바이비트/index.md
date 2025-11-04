@@ -46,7 +46,7 @@ robots = "index, follow"
 <a href="/go/bybit-next/"
    target="_blank"
    rel="noopener nofollow sponsored">
-  <img src="/images/join/logo1.png" alt="바이비트 가입 가이드" style="max-width:100%; border-radius:12px;">
+  <img src="/images/join/logo1.png" alt="바이비트 가입 가이드" style="max-width:100%; width:800px; height:auto; border-radius:12px; display:block; margin:auto;">
 </a>
 
 ## 📘 바이비트 소개
