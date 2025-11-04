@@ -1,14 +1,5 @@
-<!DOCTYPE html>
-<html lang="{{ .Site.Language.Lang }}">
-<head>
-    {{ partial "head.html" . }}
-    {{ block "extend_head" . }}{{ end }}
-</head>
+{{ define "extend_head" }}
+  {{ partial "extend_head.html" . }}
+{{ end }}
 
-<body>
-    {{ partial "header.html" . }}
-    {{ block "main" . }}{{ end }}
-    {{ partial "footer.html" . }}
-    {{ partial "scripts.html" . }}
-</body>
-</html>
+{{ template "_default/baseof.html" . }}
