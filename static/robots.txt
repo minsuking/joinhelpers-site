@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
-
+Disallow: /edu/
 Sitemap: https://www.joinhelpers.com/sitemap.xml
+
